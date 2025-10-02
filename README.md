@@ -4,8 +4,8 @@ Este projeto foi desenvolvido como parte do Trabalho da Unidade 1 da disciplina 
 
 ## Integrante
 
-- **Nome:** [Seu Nome Completo Aqui]
-- **Matrícula:** [Sua Matrícula Aqui]
+- **Nome:** [Alessandro da Silva Olegario]
+- **Matrícula:** [01815848]
 
 ## Sobre o Projeto
 

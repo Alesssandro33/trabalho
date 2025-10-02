@@ -1,16 +1,21 @@
-# React + Vite
+    # Mini Aplicação React - Lista de Alunos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido como parte do Trabalho da Unidade 1 da disciplina de Análise e Desenvolvimento de Sistemas.
 
-Currently, two official plugins are available:
+## Integrante
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Nome:** [Seu Nome Completo Aqui]
+- **Matrícula:** [Sua Matrícula Aqui]
 
-## React Compiler
+## Sobre o Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A aplicação consiste em uma lista de alunos, construída com React, que demonstra o uso de componentes, props, state, eventos e renderização condicional.
 
-## Expanding the ESLint configuration
+## Tecnologias Utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React:** Biblioteca para construção da interface de usuário.
+- **Vite:** Ferramenta de build para um desenvolvimento rápido.
+- **JavaScript (ES6+):** Linguagem de programação.
+- **CSS3:** Para estilização dos componentes.
+- **Git & GitHub:** Para versionamento do código.
+
